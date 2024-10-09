@@ -19,7 +19,7 @@
 - https://docs.unity3d.com/Manual/choose-a-render-pipeline.html
 - https://docs.unity3d.com/Manual/render-pipelines-overview.html
 # ویدیو های مرتبط
-- [رِندِر (Render) چیه و یعنی چی؟](../../../../videos/Basics/What%20is%20render/رِندِر%20(Render)%20چیه%20و%20یعنی%20چی؟.md)
+- [رِندِر (Render) چیه و یعنی چی؟](../../../Basics/What%20is%20render/رِندِر%20(Render)%20چیه%20و%20یعنی%20چی؟.md)
 
 
 #ویدیو #گِیم_دِو_فارسی #gamedevfarsi #توسعه_دهنده_بازی #یونیتی_unity #آموزش_یونیتی_مقدماتی 
