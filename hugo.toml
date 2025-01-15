@@ -1,4 +1,5 @@
-baseURL = 'https://gamedev-farsi.github.io/videos/'
+#baseURL = 'https://gamedev-farsi.github.io/videos/'
+baseURL = 'https://videos.gamedevfarsi.com/'
 title = 'ویدیو های گِیم دِو فارسی'
 theme = "gdfa"
 languageCode = 'fa'
