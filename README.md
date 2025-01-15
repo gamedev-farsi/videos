@@ -1,25 +1,53 @@
 # ویدیو های گِیم دِو فارسی GameDevFarsi
 
-![](_resources/logo.png)
 
 اینجا تمامی ویدیو هایی که توسط گِیم دِو فارسی تهیه شده قابل دسترسی هست. هر منبعی که توی ویدیو ها ذکر میشه میتونید اینجا پیدا کنید و ازش استفاده کنید.
 **در حال تکمیل...**
-## عمومی
-0. [آغاز به کار گِیم دِو فارسی](General/Intro/آغاز%20به%20کار%20گِیم%20دِو%20فارسی.md) 
-## مفاهیم پایه ای
-0. [رِندِر (Render) چیه و یعنی چی؟](Basics/What%20is%20render/رِندِر%20(Render)%20چیه%20و%20یعنی%20چی؟.md)
-1. [درک فضا (Space)، بُعد (Dimension) ها، دنیای صفر بعدی و یک بعدی و دو بعدی و سه بعدی - عمق (Depth)، ارتفاع (Height)، طول (Width)](Basics/Space%20and%20Dimensions/درک%20فضا%20(Space)،%20بُعد%20(Dimension)%20ها،%20دنیای%20صفر%20بعدی%20و%20یک%20بعدی%20و%20دو%20بعدی%20و%20سه%20بعدی%20-%20عمق%20(Depth)،%20ارتفاع%20(Height)،%20طول%20(Width).md)
-2. [اَسِت (Asset) یا دارایی چیه؟ Asset Flip یعنی چی؟](Basics/What%20is%20asset%20and%20asset%20flip/اَسِت%20(Asset)%20یا%20دارایی%20چیه؟%20Asset%20Flip%20یعنی%20چی؟.md)
 
-## سری آموزش های یونیتی (Unity) - مبتدی
-0. [0 - آموزش یونیتی (Unity) - قسمت 0 - معرفی موتور بازی سازی یونیتی (Unity)](Unity/Basic/0%20-%20intro%20-%20what%20is%20unity/0%20-%20آموزش%20یونیتی%20(Unity)%20-%20قسمت%200%20-%20معرفی%20موتور%20بازی%20سازی%20یونیتی%20(Unity).md)
-1. [1 - آموزش یونیتی (Unity) - قسمت 1 - کدوم نسخه از یونیتی و استفاده کنم؟ LTS چیه؟](Unity/Basic/1%20-%20Unity%20Versions/1%20-%20آموزش%20یونیتی%20(Unity)%20-%20قسمت%201%20-%20کدوم%20نسخه%20از%20یونیتی%20و%20استفاده%20کنم؟%20LTS%20چیه؟.md)
-2. [2 - آموزش یونیتی (Unity) - قسمت 2 - نصب و شروع به استفاده از یونیتی - ساخت Unity ID و استفاده از Unity Hub و ساخت یک پروژه جدید](Unity/Basic/2%20-%20Unity%20ID,%20Unity%20Hub,%20New%20Project/2%20-%20آموزش%20یونیتی%20(Unity)%20-%20قسمت%202%20-%20نصب%20و%20شروع%20به%20استفاده%20از%20یونیتی%20-%20ساخت%20Unity%20ID%20و%20استفاده%20از%20Unity%20Hub%20و%20ساخت%20یک%20پروژه%20جدید.md)
-3. [3 - آموزش یونیتی (Unity) - قسمت 3 - رِندِر اِنجین های یونیتی و فرق هاشون به صورت مختصر. URP یا HDRP؟](Unity/Basic/3%20-%20Unity%20Render%20PipeLines/3%20-%20آموزش%20یونیتی%20(Unity)%20-%20قسمت%203%20-%20رِندِر%20اِنجین%20های%20یونیتی%20و%20فرق%20هاشون%20به%20صورت%20مختصر.%20URP%20یا%20HDRP؟.md)
-
-## سری آموزش های برنامه نویسی با سی شارپ (#C)
-0. [آموزش برنامه نویسی با سی شارپ - قسمت 0 - آشنایی با سی شارپ](CSharp/Basic/0%20-%20Intro/آموزش%20برنامه%20نویسی%20با%20سی%20شارپ%20-%20قسمت%200%20-%20آشنایی%20با%20سی%20شارپ.md)
-1. [آموزش برنامه نویسی با سی شارپ - قسمت 1 - آشنایی با IDE  و نصب ویژوال استادیو Visual Studio](CSharp/Basic/1%20-%20IDE%20-%20Install%20visual%20studio/آموزش%20برنامه%20نویسی%20با%20سی%20شارپ%20-%20قسمت%201%20-%20آشنایی%20با%20IDE%20%20و%20نصب%20ویژوال%20استادیو%20Visual%20Studio.md)
+[مشاهده وبسایت](https://gamedev-farsi.github.io/videos)
 
 ---
-_GameDevFarsi_
+
+# مفاهیم پایه ای
+- [perspective-vs-orthographic](content/basic-concepts/perspective-vs-orthographic.md)
+- [understanding-dimensions](content/basic-concepts/understanding-dimensions.md)
+- [vector-graphics-vs-raster-graphics](content/basic-concepts/vector-graphics-vs-raster-graphics.md)
+- [what-is-asset-and-asset-flip](content/basic-concepts/what-is-asset-and-asset-flip.md)
+- [what-is-pixel-and-resolution](content/basic-concepts/what-is-pixel-and-resolution.md)
+- [what-is-render](content/basic-concepts/what-is-render.md)
+# سری آموزش های برنامه نویسی با سی شارپ (`c#`) (مقدماتی)
+- [0-introduction-to-csharp](content/csharp-basic/0-introduction-to-csharp.md)
+- [1-getting-started-with-visual-studio](content/csharp-basic/1-getting-started-with-visual-studio.md)
+- [2-getting-started-with-programming](content/csharp-basic/2-getting-started-with-programming.md)
+- [3-datatypes-variables-operators](content/csharp-basic/3-datatypes-variables-operators.md)
+- [4-primitive-datatypes](content/csharp-basic/4-primitive-datatypes.md)
+- [5-type-conversion](content/csharp-basic/5-type-conversion.md)
+- [6-conditional-statements-part1](content/csharp-basic/6-conditional-statements-part1.md)
+- [7-conditional-statements-part2](content/csharp-basic/7-conditional-statements-part2.md)
+- [8-functions](content/csharp-basic/8-functions.md)
+# عمومی
+- [0-hello-world](content/general/0-hello-world.md)
+- [introduction-to-blender](content/general/introduction-to-blender.md)
+- [introduction-to-game-design-document-GDD](content/general/introduction-to-game-design-document-GDD.md)
+- [introduction-to-gimp](content/general/introduction-to-gimp.md)
+- [introduction-to-inkscape](content/general/introduction-to-inkscape.md)
+- [introduction-to-krita](content/general/introduction-to-krita.md)
+- [introduction-to-markdown](content/general/introduction-to-markdown.md)
+- [introduction-to-xr-ar-vr-mr](content/general/introduction-to-xr-ar-vr-mr.md)
+- [unity-licenses-2025](content/general/unity-licenses-2025.md)
+# سری آموزش های یونیتی مقدماتی (Unity)
+- [0-introduction-to-unity-game-engine](content/unity-basic/0-introduction-to-unity-game-engine.md)
+- [1-unity-versions](content/unity-basic/1-unity-versions.md)
+- [2-unity-id-and-unity-hub](content/unity-basic/2-unity-id-and-unity-hub.md)
+- [3-unity-render-engines](content/unity-basic/3-unity-render-engines.md)
+- [lets-go-with-unity6](content/unity-basic/lets-go-with-unity6.md)
+# سری آموزش های یونیتی 6 مقدماتی (Unity 6)
+- [1-getting-started-with-unity-editor](content/unity6-basic/1-getting-started-with-unity-editor.md)
+- [2-understanding-gameobjects](content/unity6-basic/2-understanding-gameobjects.md)
+- [3-moving-in-scene-view](content/unity6-basic/3-moving-in-scene-view.md)
+- [4-understanding-components](content/unity6-basic/4-understanding-components.md)
+- [5-transform-component](content/unity6-basic/5-transform-component.md)
+- [6-moving-gameobjects-in-the-scene](content/unity6-basic/6-moving-gameobjects-in-the-scene.md)
+- [7-understanding-global-space-and-local-space](content/unity6-basic/7-understanding-global-space-and-local-space.md)
+- [8-prefabs](content/unity6-basic/8-prefabs.md)
+

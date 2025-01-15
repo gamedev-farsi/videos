@@ -1,0 +1,3 @@
+[submodule "themes/gdfa"]
+    path = themes/gdfa
+    url = https://github.com/gamedev-farsi/hugo-theme.git

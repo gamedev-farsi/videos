@@ -1,0 +1,46 @@
+baseURL = 'https://gamedev-farsi.github.io/videos/'
+title = 'ویدیو های گِیم دِو فارسی'
+theme = "gdfa"
+languageCode = 'fa'
+buildDrafts = false
+defaultContentLanguage = 'fa'
+
+[Languages]
+[Languages.fa]
+languageCode = "fa"
+languageDirection = "rtl"
+[languages.fa.pagination]
+disableAliases = false
+
+[[menus.main]]
+name = 'صفحه اصلی'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'تگ ها'
+pageRef = '/tags'
+weight = 30
+
+[pagination]
+disableAliases = true
+pagerSize = 20
+path = 'page'
+
+[module]
+[module.hugoVersion]
+extended = false
+min = "0.116.0"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[[module.mounts]]
+source = 'attachments'
+target = 'assets/attachments'
+
+[[module.mounts]]
+source = 'assets/css/custom.css'
+target = 'assets/css/custom.css'
