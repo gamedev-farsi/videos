@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+
+    {{ $dateMachine := .Date | time.Format ":date_full" }}
+    {{ $dateHuman := .Date | time.Format ":date_full" }}
+    <time class="badge" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    <small class="badge">{{ printf "زمان مطالعه: %d دقیقه" .ReadingTime }}</small>
+    {{ if .Params.duration }}
+    <span style="font-size: x-small;">
+        <small class="badge">
+            زمان ویدیو: 
+            {{ .Params.duration | time.Duration "s" }}</small>
+    </span>
+    {{end}}
+    {{ if .Params.youtube }}
+    <span style="font-size: x-small;">
+        <a target="_blank" href="{{.Params.youtube}}">
+            لینک یوتیوب
+            <img class="icon" src="/icons/Youtube.svg">
+        </a>
+    </span>
+    {{end}}
+    {{ if .Params.aparat }}
+    <span style="font-size: x-small;">
+        <a target="_blank" href="{{.Params.aparat}}">
+            لینک آپارات
+            <img class="icon" src="/icons/Aparat.svg">
+        </a>
+    </span>
+    {{end}}
+    <hr />
+    {{ .Content }}
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+</div>
+{{ end }}
