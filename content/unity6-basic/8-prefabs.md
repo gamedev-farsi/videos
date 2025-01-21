@@ -2,7 +2,7 @@
 youtube: 
 aparat: 
 date: 2025-01-15
-draft: true
+draft: false
 category: سری آموزش های یونیتی6 (Unity6) - مبتدی
 author: علی
 tags:
