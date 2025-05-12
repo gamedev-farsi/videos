@@ -35,6 +35,7 @@
 - [introduction-to-markdown](content/general/introduction-to-markdown.md)
 - [introduction-to-xr-ar-vr-mr](content/general/introduction-to-xr-ar-vr-mr.md)
 - [unity-licenses-2025](content/general/unity-licenses-2025.md)
+- [introduction-to-binary](content/general/introduction-to-binary.md)
 # سری آموزش های یونیتی مقدماتی (Unity)
 - [0-introduction-to-unity-game-engine](content/unity-basic/0-introduction-to-unity-game-engine.md)
 - [1-unity-versions](content/unity-basic/1-unity-versions.md)
