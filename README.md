@@ -42,6 +42,7 @@
 - [آموزش برنامه نویسی با سی شارپ C# قسمت 7 – دستورات شرطی - بخش 2 از 2](content/csharp-basic/7-conditional-statements-part2.md)
 - [آموزش برنامه نویسی با سی شارپ C# - قسمت 8 – فانکشِن ها (Functions)](content/csharp-basic/8-functions.md)
 - [آموزش برنامه نویسی با سی شارپ C# - قسمت 9 – حَلقه (Loop)](content/csharp-basic/9-loop.md)
+- [آموزش برنامه نویسی با سی شارپ C# - قسمت 10 – کلاس (Class)](content/csharp-basic/10-class.md)
 
 # سری آموزش های یونیتی مقدماتی (Unity)
 - [آموزش یونیتی (Unity) - قسمت 0 - معرفی موتور بازی سازی یونیتی (Unity)](content/unity-basic/0-introduction-to-unity-game-engine.md)
