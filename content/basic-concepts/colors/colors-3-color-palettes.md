@@ -19,3 +19,6 @@ duration: 377
 # وارد کردن و ساخت Color Palette توی نرم افزار Gimp
 
 
+# لینک های مرتبط
+- https://lospec.com/palette-list/
+- https://color.adobe.com
