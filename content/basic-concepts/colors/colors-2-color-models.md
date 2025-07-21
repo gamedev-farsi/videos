@@ -13,7 +13,7 @@ tags:
   - یونیتی6
   - blender
   - godot
-title: آشنایی به مدل های رنگی - RGB/HSV
+title: رَنگ 2 - آشنایی با مدل های رنگی - RGB, HSV, RGBA
 summary: توی این ویدیو کمی با مدل های رنگی آشنا میشیم.
 duration: 679
 ---
