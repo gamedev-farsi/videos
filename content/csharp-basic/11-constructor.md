@@ -1,7 +1,7 @@
 ---
 youtube: https://youtu.be/14831jzqKKg
 aparat: https://aparat.com/v/kbi39h1
-date: 2024-01-01
+date: 2025-07-24
 draft: false
 category: "سری آموزش های برنامه نویسی با سی شارپ #C (مقدماتی)"
 author: علی
