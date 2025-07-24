@@ -31,6 +31,7 @@
 - [رَنگ 1 - آشنایی با چند مفهوم پایه ای رنگ](content/basic-concepts/colors/colors-1-basic-color-concepts.md)
 - [رَنگ 2 - آشنایی با مدل های رنگی - RGB, HSV, RGBA](content/basic-concepts/colors/colors-2-color-models.md)
 - [رَنگ 3 - آشنایی با Color Palette](content/basic-concepts/colors/colors-3-color-palettes.md)
+- [رَنگ 4 - آشنایی با عُمق رنگ (Color Depth) و Bit Depth](content/basic-concepts/colors/colors-4-color-depth-bit-depth.md)
 # سری آموزش های برنامه نویسی با سی شارپ (`c#`) (مقدماتی)
 - [آموزش برنامه نویسی با سی شارپ - قسمت 0 - آشنایی با سی شارپ](content/csharp-basic/0-introduction-to-csharp.md)
 - [آموزش برنامه نویسی با سی شارپ - قسمت 1 - آشنایی با IDE  و نصب ویژوال استادیو Visual Studio](content/csharp-basic/1-getting-started-with-visual-studio.md)
