@@ -29,7 +29,9 @@
 # رنگ
 - [رنگ 0 - آشنایی با رنگهای مبتنی به نور و رنگدانه](content/basic-concepts/colors/colors-0-pigment-and-light-colors.md)
 - [رَنگ 1 - آشنایی با چند مفهوم پایه ای رنگ](content/basic-concepts/colors/colors-1-basic-color-concepts.md)
-- [آشنایی به مدل های رنگی - RGB/HSV](content/basic-concepts/colors/colors-2-color-models.md)
+- [رَنگ 2 - آشنایی با مدل های رنگی - RGB, HSV, RGBA](content/basic-concepts/colors/colors-2-color-models.md)
+- [رَنگ 3 - آشنایی با Color Palette](content/basic-concepts/colors/colors-3-color-palettes.md)
+- [رَنگ 4 - آشنایی با عُمق رنگ (Color Depth) و Bit Depth](content/basic-concepts/colors/colors-4-color-depth-bit-depth.md)
 # سری آموزش های برنامه نویسی با سی شارپ (`c#`) (مقدماتی)
 - [آموزش برنامه نویسی با سی شارپ - قسمت 0 - آشنایی با سی شارپ](content/csharp-basic/0-introduction-to-csharp.md)
 - [آموزش برنامه نویسی با سی شارپ - قسمت 1 - آشنایی با IDE  و نصب ویژوال استادیو Visual Studio](content/csharp-basic/1-getting-started-with-visual-studio.md)
@@ -40,7 +42,10 @@
 - [آموزش برنامه نویسی با سی شارپ C# قسمت 6 – دستورات شرطی - بخش 1 از 2](content/csharp-basic/6-conditional-statements-part1.md)
 - [آموزش برنامه نویسی با سی شارپ C# قسمت 7 – دستورات شرطی - بخش 2 از 2](content/csharp-basic/7-conditional-statements-part2.md)
 - [آموزش برنامه نویسی با سی شارپ C# - قسمت 8 – فانکشِن ها (Functions)](content/csharp-basic/8-functions.md)
-
+- [آموزش برنامه نویسی با سی شارپ C# - قسمت 9 – حَلقه (Loop)](content/csharp-basic/9-loop.md)
+- [آموزش برنامه نویسی با سی شارپ C# - قسمت 10 – کلاس (Class)](content/csharp-basic/10-class.md)
+- [آموزش برنامه نویسی با سی شارپ C# - قسمت 11 – Constructor](content/csharp-basic/11-constructor.md)
+- [آموزش برنامه نویسی با سی شارپ C# - قسمت 12 – this](content/csharp-basic/12-this.md)
 # سری آموزش های یونیتی مقدماتی (Unity)
 - [آموزش یونیتی (Unity) - قسمت 0 - معرفی موتور بازی سازی یونیتی (Unity)](content/unity-basic/0-introduction-to-unity-game-engine.md)
 - [آموزش یونیتی (Unity) - قسمت 1 - کدوم نسخه از یونیتی و استفاده کنم؟ LTS چیه؟](content/unity-basic/1-unity-versions.md)
